@@ -1,0 +1,11 @@
+{
+  "name": "project_tracker",
+  "version": "0.1.0",
+  "description": "A small CLI project for managing projects, tasks, and users (Python).",
+  "scripts": {
+    "test": "pytest -q",
+    "unittest": "python3 -m unittest discover -s tests -v"
+  },
+  "author": "",
+  "license": "MIT"
+}
